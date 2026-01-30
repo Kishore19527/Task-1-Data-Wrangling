@@ -1,0 +1,13 @@
+Column Name,Data Type,Description,Business Relevance
+invoice_no,Text,Invoice number,Transaction tracking
+customer_id,Text,Customer identifier,Customer analysis
+gender,Text,Customer gender,Demographics
+age,Number,Customer age,Segmentation
+category,Text,Product category,Sales analysis
+quantity,Number,Items purchased,Demand
+price,Decimal,Price per unit,Revenue
+payment_method,Text,Payment mode,Payment trends
+invoice_date,Date,Purchase date,Time analysis
+shopping_mall,Text,Mall name,Location analysis
+total_amount,Decimal,Total transaction value,Business KPI
+age_group,Text,Age category,Customer segmentation
